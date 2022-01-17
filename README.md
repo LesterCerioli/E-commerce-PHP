@@ -1,9 +1,11 @@
-# Projeto E-commerce
+# PHP E-Commerce Project
 
 Autor: LesterCerioli
 https://github.com/lesterCerioli
 
+Project developed from scratch in the PHP 7 Course available on the Udemy platform and on the HTML5dev.com.br website.
+Dabase: MySql
 
-Projeto desenvolvido do zero no [Curso de PHP 7](https://www.udemy.com/curso-completo-de-php-7/) disponível na plataforma da Udemy e no site do [HTML5dev.com.br](https://www.html5dev.com.br/curso/curso-completo-de-php-7).
+Template used in Almsaeed Studio# E-commerce-PHP project
 
-Template usado no projeto [Almsaeed Studio](https://almsaeedstudio.com)# E-commerce-PHP
+
